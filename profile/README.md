@@ -12,6 +12,6 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me &nbsp; 🤝🏻  </h3>
-<a href="mailto:develop@aibaixun.com"><img alt="Email" src="https://img.shields.io/badge/develop@aibaixun.com?style=flat-square&logo=gmail"></a>
+<a href="mailto:develop@aibaixun.com"><img alt="Email" src="https://img.shields.io/badge/develop@aibaixun.com-blue?style=flat-square&logo=gmail"></a>
 
 
