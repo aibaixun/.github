@@ -7,6 +7,15 @@
 ## 主要产品
 - 度联：工业智能物联网平台由设备接入模块、设备消息通信模块、设备管理模块、运维监管模块、数据服务模块、数据可视化模块和系统基础管理模块组成，是一个由边缘网关、本地服务、私有云、公有云为计算节点的分布式架构体系。平台采用灵活的模块化、插件化设计理念，可根据用户需求自由拼接扩展，具有国际化、全链接、高并发、低时延、热插拔、安全可靠稳定等特点。面对工业互联网各领域用户，百讯智汇提供先进成熟实惠具有针对性的物联网平台完整解决方案。
 - 度图：数字孪生平台
-- 度小修：预测性维修平台
-- 度图：是百讯在工业领域打造的一款万物互联的边缘计算产品。度盒可实现工业通讯、协议转换、无线数据/信号采集、数据监测、远距离数据采集传输、数据分析处理、故障预警等功能，度盒可应用于图像故障监测、图像识别等诸多边缘技术应用场景。
+- 度小修：设备预测性维修平台
+- 度盒：是百讯在工业领域打造的一款万物互联的边缘计算产品。度盒可实现工业通讯、协议转换、无线数据/信号采集、数据监测、远距离数据采集传输、数据分析处理、故障预警等功能，度盒可应用于图像故障监测、图像识别等诸多边缘技术应用场景。
+
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aibaixun&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibaixun&theme=buefy&layout=compact" />
+</a>
+<h3> 🤝🏻 &nbsp;Connect with Me &nbsp; 🤝🏻  </h3>
+<a href="mailto:wxiao1002@yeah.net"><img alt="Email" src="https://img.shields.io/badge/wxiao1002@yeah.net-blue?style=flat-square&logo=gmail"></a>
+
 
