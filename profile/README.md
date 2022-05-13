@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
+# [贵州百讯智汇科技有限公司](http://www.aibaixun.com/)
 
-**Here are some ideas to get you started:**
+贵州百讯智汇科技有限公司，是百度集团和贵阳经开区管委会合资组建的实体研发高科技公司，定位工业互联网运营服务商，目前贵州地区唯一具有软硬一体研发能力的工业互联网团队，已成为贵阳数字经济头部科技企业。<br/>
+公司立足贵阳，服务西南，辐射全国，运用百度技术优势结合西南区域产业发展，深挖各行业企业实际需求，运用大数据、5G、云计算、物联网、人工智能等新兴技术，为工业企业提供端到端的一体化智能制造解决方案，帮助实体企业转型升级。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 主要产品
+- 度联：工业智能物联网平台由设备接入模块、设备消息通信模块、设备管理模块、运维监管模块、数据服务模块、数据可视化模块和系统基础管理模块组成，是一个由边缘网关、本地服务、私有云、公有云为计算节点的分布式架构体系。平台采用灵活的模块化、插件化设计理念，可根据用户需求自由拼接扩展，具有国际化、全链接、高并发、低时延、热插拔、安全可靠稳定等特点。面对工业互联网各领域用户，百讯智汇提供先进成熟实惠具有针对性的物联网平台完整解决方案。
+- 度图：数字孪生平台
+- 度小修：预测性维修平台
+- 度图：是百讯在工业领域打造的一款万物互联的边缘计算产品。度盒可实现工业通讯、协议转换、无线数据/信号采集、数据监测、远距离数据采集传输、数据分析处理、故障预警等功能，度盒可应用于图像故障监测、图像识别等诸多边缘技术应用场景。
+
